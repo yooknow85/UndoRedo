@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocToolkit", "DocToolkit.csproj", "{EF871417-414A-462F-9B30-6EEC3920499F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF871417-414A-462F-9B30-6EEC3920499F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF871417-414A-462F-9B30-6EEC3920499F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF871417-414A-462F-9B30-6EEC3920499F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF871417-414A-462F-9B30-6EEC3920499F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E1237C3-60FA-4C70-ABAF-ABDF29EF4AAA}
+	EndGlobalSection
+EndGlobal
